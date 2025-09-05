@@ -1,6 +1,6 @@
 # Ola Data Analytics
 
-## Tools: SQL, Excel, Power BI
+## Tools: SQL,Excel, Power BI
 
 ## Dashboard Link: Live Dashboard Here
 
