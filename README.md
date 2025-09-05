@@ -1,5 +1,10 @@
 # Ola Data Analytics
 ## Tools:SQL, Excel, Power BI
+## Dashboard Link: Live Dashboard Here
+
+## GitHub Link: Check SQL Queries, and more from here
+
+## View Data Schema: Data Schema
 
 ## Project Overview
 
