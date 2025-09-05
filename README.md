@@ -4,7 +4,7 @@
 
 ## GitHub Link: Check SQL Queries, and more from here
 
-## View Data Schema: [Data Schema]()
+## View Data Schema: [Data Schema](https://github.com/prashanthkumarjoshi/Ola_Data_Analysis_project/blob/main/Ola%20Database%20Schema%20(1).pdf)
 
 ## Project Overview
 
