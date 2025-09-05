@@ -2,7 +2,7 @@
 ## Tools:SQL, Excel, Power BI
 ## Dashboard Link: Live Dashboard Here
 
-## GitHub Link: Check SQL Queries, and more from here
+## GitHub Link: [Check SQL Queries, and more from here](url)
 
 ## View Data Schema: [Data Schema](https://github.com/prashanthkumarjoshi/Ola_Data_Analysis_project/blob/main/Ola%20Database%20Schema%20(1).pdf)
 
