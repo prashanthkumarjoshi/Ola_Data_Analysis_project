@@ -12,3 +12,5 @@ This project focuses on analyzing Ola’s ride data to uncover key trends in boo
 4. Assess payment method preferences and their impact on revenue.  
 5. Identify high-value customers and loyalty indicators using booking frequency and value.  
 6. Visualize operational metrics to support data-driven decision-making and service optimization.
+
+## Project Structure
