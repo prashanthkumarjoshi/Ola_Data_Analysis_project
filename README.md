@@ -4,7 +4,7 @@
 
 ## GitHub Link: Check SQL Queries, and more from here
 
-## View Data Schema: Data Schema
+## View Data Schema: [Data Schema]()
 
 ## Project Overview
 
