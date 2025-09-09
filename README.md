@@ -25,4 +25,5 @@ This project focuses on analyzing Ola’s ride data to uncover key trends in boo
 
 ## Dashboard
 
-<iframe title="Ola DashBoard" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=5d41a86f-0009-4172-b571-1dc6bdc015d0&autoAuth=true&ctid=11a2b842-29b4-4064-b490-7a8f18fae202" frameborder="0" allowFullScreen="true"></iframe>
+![Ola Dashboard Preview](dashboard-preview.png)  
+🔗 [Click here to view the live dashboard](https://app.powerbi.com/reportEmbed?reportId=5d41a86f-0009-4172-b571-1dc6bdc015d0&autoAuth=true&ctid=11a2b842-29b4-4064-b490-7a8f18fae202)
