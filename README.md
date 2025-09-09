@@ -29,6 +29,8 @@ This project focuses on analyzing Ola’s ride data to uncover key trends in boo
 
 Explore the interactive Power BI dashboard for Ola ride analytics:
 
+
+
 🔗 [View Dashboard](https://app.powerbi.com/reportEmbed?reportId=5d41a86f-0009-4172-b571-1dc6bdc015d0&autoAuth=true&ctid=11a2b842-29b4-4064-b490-7a8f18fae202)
 
 This dashboard visualizes key metrics such as ride volume, driver performance, and time-based trends to support data-driven decisions.
