@@ -23,4 +23,6 @@ This project focuses on analyzing Ola’s ride data to uncover key trends in boo
 5. Identify high-value customers and loyalty indicators using booking frequency and value.  
 6. Visualize operational metrics to support data-driven decision-making and service optimization.
 
-## Project Structure
+## Dashboard
+
+[View on Speaker Deck](https://github.com/prashanthkumarjoshi/Ola_Data_Analysis_project/blob/main/Ola%20DashBoard.pdf)
