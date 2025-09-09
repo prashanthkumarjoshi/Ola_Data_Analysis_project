@@ -23,28 +23,3 @@ This project focuses on analyzing Ola’s ride data to uncover key trends in boo
 5. Identify high-value customers and loyalty indicators using booking frequency and value.  
 6. Visualize operational metrics to support data-driven decision-making and service optimization.
 
-## Dashboard
-
-## 📊 Ola Dashboard
-
-Explore the interactive Power BI dashboard for Ola ride analytics:
-
-
-
-🔗 [View Dashboard](https://app.powerbi.com/reportEmbed?reportId=5d41a86f-0009-4172-b571-1dc6bdc015d0&autoAuth=true&ctid=11a2b842-29b4-4064-b490-7a8f18fae202)
-
-This dashboard visualizes key metrics such as ride volume, driver performance, and time-based trends to support data-driven decisions.
-
-![Ola Dashboard Preview](dashboard-preview.png)  
-🔗 [Click here to view the live dashboard](https://app.powerbi.com/reportEmbed?reportId=5d41a86f-0009-4172-b571-1dc6bdc015d0&autoAuth=true&ctid=11a2b842-29b4-4064-b490-7a8f18fae202)
-
-
-
-
-## 📊 Ola Dashboard
-
-Explore the interactive Power BI dashboard for Ola ride analytics:
-
-[![Ola Dashboard Preview](dashboard-preview.png)](https://app.powerbi.com/reportEmbed?reportId=5d41a86f-0009-4172-b571-1dc6bdc015d0&autoAuth=true&ctid=11a2b842-29b4-4064-b490-7a8f18fae202)
-
-This dashboard visualizes key metrics such as ride volume, driver performance, and time-based trends to support data-driven decisions.
