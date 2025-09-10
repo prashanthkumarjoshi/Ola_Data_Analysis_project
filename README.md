@@ -2,7 +2,7 @@
 
 ## Tools: SQL,Excel, Power BI
 
-## Dashboard Link: [[Ola Dashboard Preview](dashboard-preview.png)](https://app.powerbi.com/reportEmbed?reportId=5d41a86f-0009-4172-b571-1dc6bdc015d0&autoAuth=true&ctid=11a2b842-29b4-4064-b490-7a8f18fae202)
+## Dashboard Link: [![Ola Dashboard Preview](dashboard-preview.png)](https://app.powerbi.com/reportEmbed?reportId=5d41a86f-0009-4172-b571-1dc6bdc015d0&autoAuth=true&ctid=11a2b842-29b4-4064-b490-7a8f18fae202)
 
 ## GitHub Link: [Check SQL Queries, and more from here](url)
 
