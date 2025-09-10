@@ -23,15 +23,45 @@ This project focuses on analyzing Ola’s ride data to uncover key trends in boo
 5. Identify high-value customers and loyalty indicators using booking frequency and value.  
 6. Visualize operational metrics to support data-driven decision-making and service optimization.
 
------------------------------OLA DATA ANALYTICS-----------------------------
----Cearting Database---
-create database ola;
-use ola
+## Q1. Write a Query to find the top 5   most frequently ordered dishes by customer called  "Akhil Reddy" in the last 1 year.
+<details><summary>
+<strong>Description</strong>: Return the records of last 1 year with customer_id, customer_name,dishes and total count of dishes.</summary>
+<br><strong>SQL Code</strong>
 
-Q1. Retrieve all successful bookings
-<details><summary><strong>Description</strong>: Get all rides with booking status marked as success.</summary> <br><strong>SQL Code</strong>
-SELECT * 
-FROM bookings
-WHERE booking_status = 'success';
+  ```sql
 
+  SELECT
+    customer_name,
+    dishes,
+    total_dishes
+  FROM
+    (SELECT
+        c.customer_id,
+        c.customer_name,
+        o.order_item AS dishes,
+        COUNT(order_id) AS total_dishes,
+        DENSE_RANK() OVER (ORDER BY COUNT(order_id) DESC) AS RANK
+      FROM
+        orders o
+        JOIN customers c ON o.customer_id = c.customer_id
+      WHERE
+        o.order_date >= CURRENT_DATE - INTERVAL '1 Year'
+        AND c.customer_name = 'Akhil Reddy'
+      GROUP BY
+        1,
+        2,
+        3
+      ORDER BY
+        1,
+        4 DESC
+    ) AS t1
+  WHERE
+    RANK <= 5;
+  ```
 </details>
+<details>
+<summary><strong>Expected Output</strong>: A list of top 5 most frequently orderd dishes by Customer Name called "Akhil Reddy".</summary>
+<br><strong>Query Output</strong>
+ <br> <img src="https://github.com/prashanthkumarjoshi/SQL_PROJECT_3/blob/main/images/Q_1_output.png" height="200">
+</details>
+    
