@@ -23,3 +23,15 @@ This project focuses on analyzing Ola’s ride data to uncover key trends in boo
 5. Identify high-value customers and loyalty indicators using booking frequency and value.  
 6. Visualize operational metrics to support data-driven decision-making and service optimization.
 
+-----------------------------OLA DATA ANALYTICS-----------------------------
+---Cearting Database---
+create database ola;
+use ola
+
+Q1. Retrieve all successful bookings
+<details><summary><strong>Description</strong>: Get all rides with booking status marked as success.</summary> <br><strong>SQL Code</strong>
+SELECT * 
+FROM bookings
+WHERE booking_status = 'success';
+
+</details>
